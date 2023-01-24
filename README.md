@@ -1,11 +1,7 @@
 # Fluid text hover
 
+A Pen created on CodePen.io. Original URL: [https://codepen.io/wildecreative/pen/yLKWBPy](https://codepen.io/wildecreative/pen/yLKWBPy).
 
-## webGL and alpha
- - https://webglfundamentals.org/webgl/lessons/webgl-and-alpha.html
+WebGL text effect using OGL https://github.com/oframe/ogl
 
-
-## setting transparent background
-- https://stackoverflow.com/questions/58910720/setting-transparent-background-to-this-webgl-with-ogl-flowmap-effect
-
-
+Background picture by Vinicius Amano https://unsplash.com/photos/f9oQZOk9vnk
